@@ -44,7 +44,7 @@ Currently, I’m exploring **AI-driven testing solutions** to enhance automation
 ## 📫 Let's Connect!  
 💼 [LinkedIn](https://www.linkedin.com/in/tasnim-fariyah)  
 📂 [GitHub](https://github.com/tfariyah31)
-✉️ Reach me at: your.email@example.com  
+✉️ Reach me at: fariyah@gmail.com  
 
 ---
 
