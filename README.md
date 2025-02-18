@@ -25,7 +25,7 @@ Currently, I’m exploring **AI-driven testing solutions** to enhance automation
 ---
 
 ## 🔧 Tech Stack & Skills  
-- **Automation Testing:** Selenium, Selenium Grid, TestNg, Jmeter, Rest Assured, Git, Robot Framework, Jenkins, Postman,Axe, Cucumber, Watir, Sikuli.
+- **Automation Testing:** playwright, Selenium, Selenium Grid, TestNg, Jmeter, Rest Assured, Git, Robot Framework, Jenkins, Postman,Axe, Cucumber, Watir, Sikuli.
 - **Programming Languages:** Python, Java, JavaScript, Bash
 - **Cloud & DevOps:** AWS (S3, Cloudfront, Elastic Transcoder, EC2), Docker , Ansible, Jenkins.
 - **Testing Techniques:** Exploratory, Functional, Integration, Regression,Database, Performance, Load, User Acceptance Testing (UAT), Accessibility Testing.
