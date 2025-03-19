@@ -35,6 +35,8 @@ Currently, I’m exploring **AI-driven testing solutions** to enhance automation
 ---
 
 ## 📚 Recent Projects  
+🔹 **[SimpleWebApp](https://github.com/tfariyah31/SimpleWebApp.git)** – Built a simple web application with a React frontend and a Node.js backend. It includes user authentication (login functionality) and a product list page. The backend uses Express.js and MongoDB, while the frontend is built with React and Material-UI.
+
 🔹 **[playwright-javaScript-agentQL-automation](https://github.com/tfariyah31/playwright-javaScript-agentQL-automation)** – Developed a Playwright JavaScript automation framework for testing e-commerce application, integrating AgentQL for intelligent element selection via natural language, enabling self-healing capabilities to adapt to UI changes. Designed with POM for scalability, maintainability, and efficient cross-browser, parallel execution.
 
 🔹 **[selenium-testng-pom-framework](https://github.com/tfariyah31/selenium-testng-pom-framework)** – Built a Selenium TestNg Page Object Model (POM) automation framework for testing e-commerce application. Features includes data-driven testing (JSON), retry logic (IRetryAnalyzer), Log4j2 for logging and Extent Reports for detailed test reporting.  
