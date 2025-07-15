@@ -36,6 +36,8 @@ Currently, I’m exploring **AI-driven testing solutions** to enhance automation
 
 ## 📚 Recent Projects  
 
+🔹 **[Mail-AI-Workflow](https://github.com/tfariyah31/MailAIWorkflow.git)** – AI-powered workflow that automatically classifies recruiter emails, checks if your resume aligns with the job description using semantic similarity, and drafts a reply with your resume attached. Built using Gmail API, a fine-tuned DistilBERT classifier, and SentenceTransformer embeddings.
+
 🔹 **[Postman-API-Testing-Demo](https://github.com/tfariyah31/Postman-API-Testing-Demo.git)** – This project demonstrates a complete API testing workflow using Postman, Newman, and GitHub Actions, built on top of a [SimpleWebApp](https://github.com/tfariyah31/SimpleWebApp-ReactNode_Playwright_CI) Node.js backend application.
 
 🔹 **[SimpleWebApp-ReactNode_Playwright_CI](https://github.com/tfariyah31/SimpleWebApp.git)** – Built a simple web application with a React frontend and a Node.js backend. It includes user authentication (login functionality) and a product list page. The backend uses Express.js and MongoDB, while the frontend is built with React and Material-UI.
