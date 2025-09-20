@@ -36,6 +36,9 @@ Currently, I’m exploring **AI-driven testing solutions** to enhance automation
 
 ## 📚 Recent Projects  
 
+🔹 **[Knowledge_Assistant](https://github.com/tfariyah31/knowledge_assistant.git)** – An AI-powered tool that delivers instant, context-specific answers from your own documents.
+Built with Mistral-7B, LangChain, Chroma, and llama-cpp-python, it uses Retrieval-Augmented Generation (RAG) to search PDFs or other text sources and generate accurate responses — along with links to the original content for easy reference
+
 🔹 **[Mail-AI-Workflow](https://github.com/tfariyah31/MailAIWorkflow.git)** – AI-powered workflow that automatically classifies recruiter emails, checks if your resume aligns with the job description using semantic similarity, and drafts a reply with your resume attached. Built using Gmail API, a fine-tuned DistilBERT classifier, and SentenceTransformer embeddings.
 
 🔹 **[Postman-API-Testing-Demo](https://github.com/tfariyah31/Postman-API-Testing-Demo.git)** – This project demonstrates a complete API testing workflow using Postman, Newman, and GitHub Actions, built on top of a [SimpleWebApp](https://github.com/tfariyah31/SimpleWebApp-ReactNode_Playwright_CI) Node.js backend application.
