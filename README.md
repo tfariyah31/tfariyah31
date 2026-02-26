@@ -44,8 +44,8 @@ With 13+ years of experience, I specialize in:
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [**playwright-javaScript-agentQL-automation**](https://github.com/tfariyah31/playwright-javaScript-agentQL-automation) | E-commerce test framework with AgentQL natural language selectors & self-healing capabilities | `Playwright` `AgentQL` `JavaScript` `POM` |
-| [**selenium-testng-pom-framework**](https://github.com/tfariyah31/selenium-testng-pom-framework) | Full-featured Selenium framework with data-driven testing, retry logic, and rich reporting | `Selenium` `TestNG` `Java` `POM` |
+| [**Playwright-javaScript-agentQL-automation**](https://github.com/tfariyah31/playwright-javaScript-agentQL-automation) | E-commerce test framework with AgentQL natural language selectors & self-healing capabilities | `Playwright` `AgentQL` `JavaScript` `POM` |
+| [**Selenium-testng-pom-framework**](https://github.com/tfariyah31/selenium-testng-pom-framework) | Full-featured Selenium framework with data-driven testing, retry logic, and rich reporting | `Selenium` `TestNG` `Java` `POM` |
 | [**API-Testing**](https://github.com/tfariyah31/Postman-API-Testing-Demo.git) | Complete API testing workflow with automated CI pipeline | `Postman` `Newman` `GitHub Actions` |
 
 ### Full-Stack & DevOps
