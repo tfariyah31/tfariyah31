@@ -14,49 +14,100 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 Hi, I'm Tasnim!  
 
-### 🚀 Senior SDET | AI in Software Testing | Educator  
 
-I’m a **Senior Software Development Engineer in Test (SDET)** with over **13 years of experience** in software development and testing. My expertise lies in building **robust automation frameworks**, ensuring **high-quality software delivery**, and collaborating with cross-functional teams to drive innovation.  
-
-Currently, I’m exploring **AI-driven testing solutions** to enhance automation efficiency, predictive defect analysis, and intelligent test execution strategies.  
+# Hi, I'm Tasnim
+### Quality Engineering Leader · AI/ML Practitioner · 13+ Years in QA
 
 ---
 
-## 🔧 Tech Stack & Skills  
-- **Automation Testing:** playwright, Selenium, Selenium Grid, TestNg, Jmeter, Rest Assured, Git, Robot Framework, Jenkins, Postman,Axe, Cucumber, Watir, Sikuli.
-- **Programming Languages:** Python, Java, JavaScript, Bash
-- **Cloud & DevOps:** AWS (S3, Cloudfront, Elastic Transcoder, EC2), Docker , Ansible, Jenkins.
-- **Testing Techniques:** Exploratory, Functional, Integration, Regression,Database, Performance, Load, User Acceptance Testing (UAT), Accessibility Testing.
-- **Other Tools:** Postman, Git, Agile, JIRA, Confluence, TestRail, Zephyr. 
+I'm a quality engineering leader who bridges **deep technical expertise** with **strategic QA thinking** - scaling teams, maturing automation practices, and making quality a first-class citizen in product delivery.
 
-
----
-
-## 📚 Recent Projects  
-
-🔹 **[Knowledge_Assistant](https://github.com/tfariyah31/knowledge_assistant.git)** – An AI-powered tool that delivers instant, context-specific answers from your own documents.
-Built with Mistral-7B, LangChain, Chroma, and llama-cpp-python, it uses Retrieval-Augmented Generation (RAG) to search PDFs or other text sources and generate accurate responses — along with links to the original content for easy reference
-
-🔹 **[Mail-AI-Workflow](https://github.com/tfariyah31/MailAIWorkflow.git)** – AI-powered workflow that automatically classifies recruiter emails, checks if your resume aligns with the job description using semantic similarity, and drafts a reply with your resume attached. Built using Gmail API, a fine-tuned DistilBERT classifier, and SentenceTransformer embeddings.
-
-🔹 **[Postman-API-Testing-Demo](https://github.com/tfariyah31/Postman-API-Testing-Demo.git)** – This project demonstrates a complete API testing workflow using Postman, Newman, and GitHub Actions, built on top of a [SimpleWebApp](https://github.com/tfariyah31/SimpleWebApp-ReactNode_Playwright_CI) Node.js backend application.
-
-🔹 **[SimpleWebApp-ReactNode_Playwright_CI](https://github.com/tfariyah31/SimpleWebApp.git)** – Built a simple web application with a React frontend and a Node.js backend. It includes user authentication (login functionality) and a product list page. The backend uses Express.js and MongoDB, while the frontend is built with React and Material-UI.
-
-🔹 **[playwright-javaScript-agentQL-automation](https://github.com/tfariyah31/playwright-javaScript-agentQL-automation)** – Developed a Playwright JavaScript automation framework for testing e-commerce application, integrating AgentQL for intelligent element selection via natural language, enabling self-healing capabilities to adapt to UI changes. Designed with POM for scalability, maintainability, and efficient cross-browser, parallel execution.
-
-🔹 **[selenium-testng-pom-framework](https://github.com/tfariyah31/selenium-testng-pom-framework)** – Built a Selenium TestNg Page Object Model (POM) automation framework for testing e-commerce application. Features includes data-driven testing (JSON), retry logic (IRetryAnalyzer), Log4j2 for logging and Extent Reports for detailed test reporting.  
-  
----
-
-
-## 📫 Let's Connect!  
-💼 [LinkedIn](https://www.linkedin.com/in/tasnim-fariyah)  
-📂 [GitHub](https://github.com/tfariyah31)
-✉️ Reach me at: fariyah@gmail.com  
+With 13+ years of experience, I specialize in:
+- Building **scalable automation frameworks** from the ground up
+- Applying **AI/ML to QA workflows** - from intelligent test generation to semantic search and email automation
+- Leading **risk-based testing strategies** that accelerate release cycles without sacrificing quality
+- Championing **early quality gates** to shift QA left and reduce production defects
 
 ---
 
-🌱 **"Bridging AI and software testing to drive innovation and quality!"**  
+## Featured Projects
+
+### AI & Intelligent Automation
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+| [**Knowledge_Assistant**](https://github.com/tfariyah31/knowledge_assistant.git) | RAG-powered document Q&A — ask questions, get answers with source links from your own PDFs | `Mistral-7B` `LangChain` `Chroma` `llama-cpp` |
+| [**Mail-AI-Workflow**](https://github.com/tfariyah31/MailAIWorkflow.git) | Auto-classifies recruiter emails, checks resume-JD alignment via semantic similarity, drafts reply | `DistilBERT` `SentenceTransformers` `Gmail API` |
+
+### Test Automation Frameworks
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+| [**playwright-javaScript-agentQL-automation**](https://github.com/tfariyah31/playwright-javaScript-agentQL-automation) | E-commerce test framework with AgentQL natural language selectors & self-healing capabilities | `Playwright` `AgentQL` `JavaScript` `POM` |
+| [**selenium-testng-pom-framework**](https://github.com/tfariyah31/selenium-testng-pom-framework) | Full-featured Selenium framework with data-driven testing, retry logic, and rich reporting | `Selenium` `TestNG` `Java` `POM` |
+| [**Postman-API-Testing-Demo**](https://github.com/tfariyah31/Postman-API-Testing-Demo.git) | Complete API testing workflow with automated CI pipeline | `Postman` `Newman` `GitHub Actions` |
+
+### Full-Stack & DevOps
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+| [**SimpleWebApp-ReactNode_Playwright_CI**](https://github.com/tfariyah31/SimpleWebApp.git) | React + Node.js app with auth, product listing, and integrated Playwright CI tests | `React` `Node.js` `Express` `MongoDB` `Playwright` |
+
+---
+
+## Tech Stack
+
+<div align="left">
+
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+
+**AI / ML**  
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+`DistilBERT` · `SentenceTransformers` · `Prompt Engineering` · `RAG` · `Semantic Search`
+
+**Test Automation**  
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+`TestNG` · `JMeter` · `Robot Framework` · `Rest Assured`
+
+**DevOps & Cloud**  
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+`Ansible`
+
+**QA Strategy**  
+`Risk-Based Testing` · `Shift-Left QA`  · `Functional` · `Regression` · `Performance` · `Security` · `Backend` · `Accessibility` · `UAT`
+
+</div>
+
+---
+
+
+## What I'm Working On
+
+-  Exploring **AI-augmented test generation** — using LLMs to auto-generate and maintain test cases
+-  Deepening **RAG architecture** patterns for enterprise knowledge management
+-  Building reusable **QA maturity frameworks** for teams scaling from manual to intelligent automation
+-  Documenting lessons from 13+ years of QA leadership in real-world environments
+
+---
+
+## Let's Connect
+
+I'm always open to conversations about **QA strategy, AI in testing, automation architecture**, or **quality culture** in engineering orgs.
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tasnim-fariyah)
+
+---
+
+**"Bridging AI and software testing to drive innovation and quality!"**  
