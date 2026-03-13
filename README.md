@@ -52,7 +52,7 @@ With 13+ years of experience, I specialize in:
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [**SimpleWebApp-ReactNode_Playwright_CI**](https://github.com/tfariyah31/SimpleWebApp.git) | React + Node.js app with auth, product listing, and integrated Playwright CI tests | `React` `Node.js` `Express` `MongoDB` `Playwright` |
+| [**SimpleWebApp-ReactNode_Playwright_CI**](https://github.com/tfariyah31/SimpleWebApp.git) | Developed full-stack e-commerce application with role-based access, Stripe payment integration, and Playwright end-to-end tests running in CI | `React` `Node.js` `Express` `MongoDB` `Playwright` |
 
 ---
 
