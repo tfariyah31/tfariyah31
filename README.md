@@ -1,29 +1,12 @@
-<!-- ## Hi there 👋
-
-
-**tfariyah31/tfariyah31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 
 # Hi, I'm Tasnim
-### Quality Engineering Leader · AI/ML Practitioner · 13+ Years in QA
+### Lead QA · AI/ML Practitioner · 14 Years in QA
 
 ---
 
 I'm a quality engineering leader who bridges **deep technical expertise** with **strategic QA thinking** - scaling teams, maturing automation practices, and making quality a first-class citizen in product delivery.
 
-With 13+ years of experience, I specialize in:
+With 14 years of experience, I specialize in:
 - Building **scalable automation frameworks** from the ground up
 - Applying **AI/ML to QA workflows** - from intelligent test generation to semantic search and email automation
 - Leading **risk-based testing strategies** that accelerate release cycles without sacrificing quality
@@ -37,8 +20,10 @@ With 13+ years of experience, I specialize in:
 
 | Project | Description | Stack |
 |--------|-------------|-------|
+| [**AI-QE-Pipeline**](https://github.com/tfariyah31/AI-QE-Pipeline) | End-to-end AI-assisted QA pipeline — generates Gherkin from feature specs, rates test quality across 5 weighted risk dimensions, enriches with tags and priority, then generates runnable pytest scripts via Gemini + OpenAPI | `Gemini 2.5 Flash` `pytest` `Python` `Gherkin` `GitHub Actions` |
 | [**Knowledge_Assistant**](https://github.com/tfariyah31/knowledge_assistant.git) | RAG-powered document Q&A — ask questions, get answers with source links from your own PDFs | `Mistral-7B` `LangChain` `Chroma` `llama-cpp` |
 | [**Mail-AI-Workflow**](https://github.com/tfariyah31/MailAIWorkflow.git) | Auto-classifies recruiter emails, checks resume-JD alignment via semantic similarity, drafts reply | `DistilBERT` `SentenceTransformers` `Gmail API` |
+
 
 ### Test Automation Frameworks
 
@@ -95,10 +80,11 @@ With 13+ years of experience, I specialize in:
 
 ## What I'm Working On
 
--  Exploring **AI-augmented test generation** — using LLMs to auto-generate and maintain test cases
--  Deepening **RAG architecture** patterns for enterprise knowledge management
--  Building reusable **QA maturity frameworks** for teams scaling from manual to intelligent automation
--  Documenting lessons from 13+ years of QA leadership in real-world environments
+- Building the **AI-QE Pipeline** — a structured, human-in-the-loop framework for governing AI-generated test output using weighted risk scoring across 5 quality dimensions
+- Exploring **AI-augmented test generation** — using LLMs to scale and maintain automation suites
+- Deepening **RAG architecture** patterns for enterprise knowledge management
+- Building reusable **QA maturity frameworks** for teams scaling from manual to intelligent automation
+- Documenting lessons from 13+ years of QA leadership in real-world environments
 
 ---
 
