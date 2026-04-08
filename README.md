@@ -21,6 +21,7 @@ With 14 years of experience, I specialize in:
 | Project | Description | Stack |
 |--------|-------------|-------|
 | [**AI-QE-Pipeline**](https://github.com/tfariyah31/AI-QE-Pipeline) | End-to-end AI-assisted QA pipeline — generates Gherkin from feature specs, rates test quality across 5 weighted risk dimensions, enriches with tags and priority, then generates runnable pytest scripts via Gemini + OpenAPI | `Gemini 2.5 Flash` `pytest` `Python` `Gherkin` `GitHub Actions` |
+| [**my-agent**](https://github.com/tfariyah31/my_agent) | Lightweight research agent with a ReAct-style reasoning loop — decides whether to search the web or answer from memory, persists conversations across sessions, and logs every decision to a JSON audit trail | `Groq` `llama-3.3-70b` `DuckDuckGo` `ChromaDB` `Streamlit` `Python` |
 | [**Knowledge_Assistant**](https://github.com/tfariyah31/knowledge_assistant.git) | RAG-powered document Q&A — ask questions, get answers with source links from your own PDFs | `Mistral-7B` `LangChain` `Chroma` `llama-cpp` |
 | [**Mail-AI-Workflow**](https://github.com/tfariyah31/MailAIWorkflow.git) | Auto-classifies recruiter emails, checks resume-JD alignment via semantic similarity, drafts reply | `DistilBERT` `SentenceTransformers` `Gmail API` |
 
@@ -61,7 +62,8 @@ With 14 years of experience, I specialize in:
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-`TestNG` · `JMeter` · `Robot Framework` · `Rest Assured`
+![Rest Assured](https://img.shields.io/badge/Rest_Assured-4CAF50?style=flat-square&logo=java&logoColor=white)
+`TestNG` · `JMeter` · `Robot Framework` 
 
 **DevOps & Cloud**  
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
@@ -81,10 +83,11 @@ With 14 years of experience, I specialize in:
 ## What I'm Working On
 
 - Building the **AI-QE Pipeline** — a structured, human-in-the-loop framework for governing AI-generated test output using weighted risk scoring across 5 quality dimensions
+- Developing **my-agent** — a ReAct-style research agent with persistent vector memory, decision logging, and a Streamlit chat UI, built entirely on free tools
 - Exploring **AI-augmented test generation** — using LLMs to scale and maintain automation suites
 - Deepening **RAG architecture** patterns for enterprise knowledge management
 - Building reusable **QA maturity frameworks** for teams scaling from manual to intelligent automation
-- Documenting lessons from 13+ years of QA leadership in real-world environments
+- Documenting lessons from 14 years of QA leadership in real-world environments
 
 ---
 
