@@ -21,7 +21,7 @@ With 14 years of experience, I specialize in:
 | Project | Description | Stack |
 |--------|-------------|-------|
 | [**AI-QE-Pipeline**](https://github.com/tfariyah31/AI-QE-Pipeline) | End-to-end AI-assisted QA pipeline — generates Gherkin from feature specs, rates test quality across 5 weighted risk dimensions, enriches with tags and priority, then generates runnable pytest scripts via Gemini + OpenAPI | `Gemini 2.5 Flash` `pytest` `Python` `Gherkin` `GitHub Actions` |
-| [**my-agent**](https://github.com/tfariyah31/my_agent) | Lightweight research agent with a ReAct-style reasoning loop — decides whether to search the web or answer from memory, persists conversations across sessions, and logs every decision to a JSON audit trail | `Groq` `llama-3.3-70b` `DuckDuckGo` `ChromaDB` `Streamlit` `Python` |
+| [**My-Agent**](https://github.com/tfariyah31/my_agent) | Lightweight research agent with a ReAct-style reasoning loop — decides whether to search the web or answer from memory, persists conversations across sessions, and logs every decision to a JSON audit trail | `Groq` `llama-3.3-70b` `DuckDuckGo` `ChromaDB` `Streamlit` `Python` |
 | [**Knowledge_Assistant**](https://github.com/tfariyah31/knowledge_assistant.git) | RAG-powered document Q&A — ask questions, get answers with source links from your own PDFs | `Mistral-7B` `LangChain` `Chroma` `llama-cpp` |
 | [**Mail-AI-Workflow**](https://github.com/tfariyah31/MailAIWorkflow.git) | Auto-classifies recruiter emails, checks resume-JD alignment via semantic similarity, drafts reply | `DistilBERT` `SentenceTransformers` `Gmail API` |
 
