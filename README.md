@@ -16,15 +16,15 @@ With 14 years of experience, I specialize in:
 
 ## Featured Projects
 
-### AI & Intelligent Automation
+## 🤖 AI & Intelligent Automation
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [**AI-QE-Pipeline**](https://github.com/tfariyah31/AI-QE-Pipeline) | 6-agent AI orchestration system - feature spec → Gherkin → risk-scored → pytest. Live Streamlit dashboard, human-in-the-loop review, cross-run memory, confidence gates & full audit logs. | `python` `groq` `llama` `ai-agents` `multi-agent` `orchestration` `pytest` `gherkin` `streamlit` `github-actions`|
-| [**My-Agent**](https://github.com/tfariyah31/my_agent) | Lightweight research agent with a ReAct-style reasoning loop — decides whether to search the web or answer from memory, persists conversations across sessions, and logs every decision to a JSON audit trail | `Groq` `llama-3.3-70b` `DuckDuckGo` `ChromaDB` `Streamlit` `Python` |
-| [**Knowledge_Assistant**](https://github.com/tfariyah31/knowledge_assistant.git) | RAG-powered document Q&A — ask questions, get answers with source links from your own PDFs | `Mistral-7B` `LangChain` `Chroma` `llama-cpp` |
-| [**Mail-AI-Workflow**](https://github.com/tfariyah31/MailAIWorkflow.git) | Auto-classifies recruiter emails, checks resume-JD alignment via semantic similarity, drafts reply | `DistilBERT` `SentenceTransformers` `Gmail API` |
-
+| [**Code-Review-Agent**](https://github.com/tfariyah31/Code-Review-Agent) | Production-ready REST API that reviews PR diffs using LLM function calling — returns structured issues with severity levels and overall risk score. Provider-agnostic client switches between Groq (dev) and OpenAI (prod) via `.env` only. Includes token cost tracking, retry logic, size guards, and CI smoke tests. | `python` `fastapi` `openai` `groq` `function-calling` `pydantic` `docker` `github-actions` |
+| [**AI-QE-Pipeline**](https://github.com/tfariyah31/AI-QE-Pipeline) | 6-agent AI orchestration system - feature spec → Gherkin → risk-scored → pytest. Live Streamlit dashboard, human-in-the-loop review, cross-run memory, confidence gates & full audit logs. | `python` `groq` `llama` `ai-agents` `multi-agent` `orchestration` `pytest` `gherkin` `streamlit` `github-actions` |
+| [**My-Agent**](https://github.com/tfariyah31/my_agent) | Lightweight research agent with a ReAct-style reasoning loop — decides whether to search the web or answer from memory, persists conversations across sessions, and logs every decision to a JSON audit trail | `groq` `llama-3.3-70b` `duckduckgo` `chromadb` `streamlit` `python` |
+| [**Knowledge_Assistant**](https://github.com/tfariyah31/knowledge_assistant.git) | RAG-powered document Q&A — ask questions, get answers with source links from your own PDFs | `mistral-7b` `langchain` `chroma` `llama-cpp` |
+| [**Mail-AI-Workflow**](https://github.com/tfariyah31/MailAIWorkflow.git) | Auto-classifies recruiter emails, checks resume-JD alignment via semantic similarity, drafts reply | `distilbert` `sentencetransformers` `gmail-api` |
 
 ### Test Automation Frameworks
 
