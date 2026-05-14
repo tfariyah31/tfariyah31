@@ -20,6 +20,7 @@ With 14 years of experience, I specialize in:
 
 | Project | Description | Stack |
 |--------|-------------|-------|
+| [**Bug-Report-Enhancer**](https://github.com/tfariyah31/bug-report-enhancer) | RAG pipeline that converts plain language bug descriptions into structured reports with root cause hypothesis, severity inference, and regression risk. LangChain + Chroma retrieves context from feature files and API specs; Llama 4 Scout fills the template. Evaluated end-to-end with RAGAS, retrieval accuracy, and template completeness scoring. Uploads directly to GitHub Issues and Jira with ADF conversion. | `python` `langchain` `chromadb` `groq` `llama4` `ragas` `rag` `github-api` `jira-api` `sentence-transformers` |
 | [**Code-Review-Agent**](https://github.com/tfariyah31/Code-Review-Agent) | Production-ready REST API that reviews PR diffs using LLM function calling — returns structured issues with severity levels and overall risk score. Provider-agnostic client switches between Groq (dev) and OpenAI (prod) via `.env` only. Includes token cost tracking, retry logic, size guards, and CI smoke tests. | `python` `fastapi` `openai` `groq` `function-calling` `pydantic` `docker` `github-actions` |
 | [**AI-QE-Pipeline**](https://github.com/tfariyah31/AI-QE-Pipeline) | 6-agent AI orchestration system - feature spec → Gherkin → risk-scored → pytest. Live Streamlit dashboard, human-in-the-loop review, cross-run memory, confidence gates & full audit logs. | `python` `groq` `llama` `ai-agents` `multi-agent` `orchestration` `pytest` `gherkin` `streamlit` `github-actions` |
 | [**My-Agent**](https://github.com/tfariyah31/my_agent) | Lightweight research agent with a ReAct-style reasoning loop — decides whether to search the web or answer from memory, persists conversations across sessions, and logs every decision to a JSON audit trail | `groq` `llama-3.3-70b` `duckduckgo` `chromadb` `streamlit` `python` |
@@ -53,10 +54,13 @@ With 14 years of experience, I specialize in:
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
-**AI / ML**  
+**AI / ML**
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-`DistilBERT` · `SentenceTransformers` · `Prompt Engineering` · `RAG` · `Semantic Search`
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6719?style=flat-square&logo=databricks&logoColor=white)
+`DistilBERT` · `SentenceTransformers` · `Prompt Engineering` · `RAG` · `Semantic Search` · `RAGAS` · `Multi-Agent Orchestration` · `Function Calling` · `Vector Search` · `LlamaIndex`
 
 **Test Automation**  
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
