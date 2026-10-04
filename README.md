@@ -20,9 +20,10 @@ With 14 years of experience, I specialize in:
 
 | Project | Description | Stack |
 |--------|-------------|-------|
+| [**ConvoQA-Testing-Framework**](https://github.com/tfariyah31/convoqa-testing-framework) | Automated conversational AI testing framework — evaluates LLM-powered chatbots across functional, adversarial, and regression dimensions. Discovered 3 critical security vulnerabilities (prompt injection, admin override, DAN identity replacement) using DeepEval + GPT-4o-mini as judge. Includes 49 tests across 4 suites with Streamlit evaluation dashboard. | `python` `deepeval` `pytest` `openai` `gpt-4o-mini` `streamlit` `plotly` `llm-evaluation` `adversarial-testing` `prompt-injection` |
 | [**Bug-Report-Enhancer**](https://github.com/tfariyah31/bug-report-enhancer) | RAG pipeline that converts plain language bug descriptions into structured reports with root cause hypothesis, severity inference, and regression risk. LangChain + Chroma retrieves context from feature files and API specs; Llama 4 Scout fills the template. Evaluated end-to-end with RAGAS, retrieval accuracy, and template completeness scoring. Uploads directly to GitHub Issues and Jira with ADF conversion. | `python` `langchain` `chromadb` `groq` `llama4` `ragas` `rag` `github-api` `jira-api` `sentence-transformers` |
-| [**Code-Review-Agent**](https://github.com/tfariyah31/Code-Review-Agent) | Production-ready REST API that reviews PR diffs using LLM function calling — returns structured issues with severity levels and overall risk score. Provider-agnostic client switches between Groq (dev) and OpenAI (prod) via `.env` only. Includes token cost tracking, retry logic, size guards, and CI smoke tests. | `python` `fastapi` `openai` `groq` `function-calling` `pydantic` `docker` `github-actions` |
 | [**AI-QE-Pipeline**](https://github.com/tfariyah31/AI-QE-Pipeline) | 6-agent AI orchestration system - feature spec → Gherkin → risk-scored → pytest. Live Streamlit dashboard, human-in-the-loop review, cross-run memory, confidence gates & full audit logs. | `python` `groq` `llama` `ai-agents` `multi-agent` `orchestration` `pytest` `gherkin` `streamlit` `github-actions` |
+| [**Code-Review-Agent**](https://github.com/tfariyah31/Code-Review-Agent) | Production-ready REST API that reviews PR diffs using LLM function calling — returns structured issues with severity levels and overall risk score. Provider-agnostic client switches between Groq (dev) and OpenAI (prod) via `.env` only. Includes token cost tracking, retry logic, size guards, and CI smoke tests. | `python` `fastapi` `openai` `groq` `function-calling` `pydantic` `docker` `github-actions` |
 | [**My-Agent**](https://github.com/tfariyah31/my_agent) | Lightweight research agent with a ReAct-style reasoning loop — decides whether to search the web or answer from memory, persists conversations across sessions, and logs every decision to a JSON audit trail | `groq` `llama-3.3-70b` `duckduckgo` `chromadb` `streamlit` `python` |
 | [**Knowledge_Assistant**](https://github.com/tfariyah31/knowledge_assistant.git) | RAG-powered document Q&A — ask questions, get answers with source links from your own PDFs | `mistral-7b` `langchain` `chroma` `llama-cpp` |
 | [**Mail-AI-Workflow**](https://github.com/tfariyah31/MailAIWorkflow.git) | Auto-classifies recruiter emails, checks resume-JD alignment via semantic similarity, drafts reply | `distilbert` `sentencetransformers` `gmail-api` |
@@ -60,7 +61,7 @@ With 14 years of experience, I specialize in:
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6719?style=flat-square&logo=databricks&logoColor=white)
-`DistilBERT` · `SentenceTransformers` · `Prompt Engineering` · `RAG` · `Semantic Search` · `RAGAS` · `Multi-Agent Orchestration` · `Function Calling` · `Vector Search` · `LlamaIndex`
+`DistilBERT` · `SentenceTransformers` · `Prompt Engineering` · `RAG` · `Semantic Search` · `RAGAS` · `DeepEval` · `LLM Evaluation` · `GEval` ·`Multi-Agent Orchestration` · `Function Calling` · `Vector Search` · `LlamaIndex`
 
 **Test Automation**  
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
@@ -77,22 +78,31 @@ With 14 years of experience, I specialize in:
 `Ansible`
 
 **QA Strategy**  
-`Risk-Based Testing` · `Shift-Left QA`  · `Functional` · `Regression` · `Performance` · `Security` · `Backend` · `Accessibility` · `UAT`
+`Risk-Based Testing` · `Shift-Left QA`  · `Functional` · `Regression` · `Performance` · `Security` · `Adversarial Testing` · 
+`LLM Evaluation` · `Prompt Injection Testing`· `Backend` · `Accessibility` · `UAT`
 
 </div>
 
 ---
 
-
 ## What I'm Working On
 
-- Building the **AI-QE Pipeline** — a structured, human-in-the-loop framework for governing AI-generated test output using weighted risk scoring across 5 quality dimensions
-- Developing **my-agent** — a ReAct-style research agent with persistent vector memory, decision logging, and a Streamlit chat UI, built entirely on free tools
-- Exploring **AI-augmented test generation** — using LLMs to scale and maintain automation suites
-- Deepening **RAG architecture** patterns for enterprise knowledge management
-- Building reusable **QA maturity frameworks** for teams scaling from manual to intelligent automation
-- Documenting lessons from 14 years of QA leadership in real-world environments
-
+- Building **ConvoQA** — an automated conversational AI testing 
+  framework covering functional, adversarial, and regression 
+  evaluation with DeepEval + GPT-4o-mini as judge. Found and 
+  fixed 3 critical prompt injection vulnerabilities.
+- Building the **AI-QE Pipeline** — a structured, human-in-the-loop 
+  framework for governing AI-generated test output using weighted 
+  risk scoring across 5 quality dimensions
+- Developing **my-agent** — a ReAct-style research agent with 
+  persistent vector memory, decision logging, and a Streamlit 
+  chat UI, built entirely on free tools
+- Exploring **AI-augmented test generation** — using LLMs to 
+  scale and maintain automation suites
+- Deepening **RAG architecture** patterns for enterprise 
+  knowledge management
+- Documenting lessons from 14 years of QA leadership in 
+  real-world environments
 ---
 
 ## Let's Connect
